@@ -1,16 +1,39 @@
-# rps
+# Project Report: Rock Paper Scissors Mobile App
 
-A new Flutter project.
+## Introduction
 
-## Getting Started
+This project aimed to create my first mobile app for computer science studies. The "Rock Paper Scissors" app, developed using Flutter, provided practical experience in mobile app development.
 
-This project is a starting point for a Flutter application.
+## Project Overview
 
-A few resources to get you started if this is your first Flutter project:
+### Objective
+Create a user-friendly Rock Paper Scissors mobile app for Android and iOS.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Technologies
+- Flutter
+- Dart
+- GitHub
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Implementation
+
+### Features
+1. *User Interface:* Intuitive and visually appealing.
+2. *Game Logic:* Implemented Rock Paper Scissors rules.
+3. *Compatibility:* Worked seamlessly on Android and iOS.
+4. *Result Display:* Clearly presented game results and scores.
+
+### Challenges
+
+1. *Flutter Learning Curve:* Overcame with support from the Flutter community.
+2. *Cross-Platform Compatibility:* Addressed platform-specific nuances.
+3. *Game Logic Complexity:* Balanced fairness and randomness through iterative testing.
+
+### Lessons Learned
+
+1. *Collaboration and Version Control:* Enhanced skills in GitHub collaboration.
+2. *Problem-Solving:* Improved debugging and issue resolution.
+3. *User-Centric Design:* Emphasized the importance of an intuitive interface.
+
+## Conclusion
+
+The Rock Paper Scissors app project provided valuable experience, enhancing skills in Flutter, problem-solving, and user-centric design.
