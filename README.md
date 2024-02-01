@@ -1,4 +1,4 @@
-# Project Report: Rock Paper Scissors Mobile App
+# Project Report: Rock Paper Scissors Mobile App.
 
 ## Introduction
 
