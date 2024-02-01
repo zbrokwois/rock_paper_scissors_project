@@ -33,6 +33,7 @@ Create a user-friendly Rock Paper Scissors mobile app for Android and iOS.
 1. *Collaboration and Version Control:* Enhanced skills in GitHub collaboration.
 2. *Problem-Solving:* Improved debugging and issue resolution.
 3. *User-Centric Design:* Emphasized the importance of an intuitive interface.
+4. *Emulator Handling:* Gained proficiency in setting up emulators within VSCode.
 
 ## Conclusion
 
